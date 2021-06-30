@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sumeetmathpati
-- 👀 I’m interested in C programming, Linux, Web development 
+- 👀 I’m interested in C programming, Linux, Software Development.
 - 🌱 I’m currently Computer Engineering Undergrad ...
 - 📫 You can reach me at sumeet.mathapati@gmail.com
 
